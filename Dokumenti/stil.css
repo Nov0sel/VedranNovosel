@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color: blueviolet;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
+nav {
+	color:darkorange;
+}
+body {
+	background-color: lightgoldenrodyellow;
+}
+h1, h2, h3 {
+	color:blueviolet;
+	font-family: Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+}
